@@ -1,1 +1,0 @@
-print("Hello, %s!"%input('Please enter your name: '))
