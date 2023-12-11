@@ -1,0 +1,8 @@
+Loops:
+74 79 80 
+Functions:
+95 108 109
+Lists:
+113 114 117 120 122 133 134
+Dictionaries:
+137 141 143
